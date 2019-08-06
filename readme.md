@@ -338,9 +338,15 @@ Emitting on errors seems useful during development, as long as the exit code is 
 - Our default is `true`
 
 This seems helpful. See attached screenshots (in my Drive).
+<<<<<<< HEAD
 
 TODO: Attach screenshots
 
+=======
+
+TODO: Attach screenshots
+
+>>>>>>> Update Common options - partially completed
 ### `noFallthroughCasesInSwitch`
 
 - TypeScript default is `false`
